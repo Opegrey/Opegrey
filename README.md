@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Opegrey
 - 👀 I’m interested in HTML, JAVA, CSS, UI/UX
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning UI, Git, etc...
 - 💞️ I’m looking to collaborate on simple projects 
 - 📫 How to reach me: oyebolaoa@gmail.com 
 
